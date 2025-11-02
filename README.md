@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Контакт:
-📧 mihail@example.com  
+📧 costadinoff@gmail.com  
 🌍 [github.com/MihailTech](https://github.com/MihailTech)  <!-- замени с твоето реално потребителско име -->
 
 ---
